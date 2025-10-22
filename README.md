@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=astoncrawley&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=astoncrawley&theme=transparent&count_private=true&locale=en" alt="astoncrawley's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=astoncrawley&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=astoncrawley&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astoncrawley&theme=transparent&count_private=true&locale=en" alt="astoncrawley's" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astoncrawley&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
 </div>
 
 <hr>
