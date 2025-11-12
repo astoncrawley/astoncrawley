@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,aws,azure,gcp,opencv,postgres,c,cpp,docker,git,github,gitlab,latex,matlab,vscode,anaconda,arduino&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,aws,azure,gcp,opencv,postgres,c,cpp,fastapi,r,docker,git,github,gitlab,latex,matlab,vscode,anaconda,arduino&perline=11" />
 </p>
 
 <hr>
